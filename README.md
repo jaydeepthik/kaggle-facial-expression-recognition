@@ -1,5 +1,5 @@
 # kaggle-facial-expression-recognition
-This repository contains code for *"Challenges in Representation Learning: Facial Expression Recognition Challenge"* on kaggle
+This repository contains code for **"Challenges in Representation Learning: Facial Expression Recognition Challenge"** on kaggle
 
 # Dataset
 The dataset can be downloaded from : https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
@@ -16,4 +16,4 @@ The training set consists of 28,709 examples. The public test set used for the l
 
 
 # Results 
-The model is the implementation of the paper *Convolutional Neural Networks for Facial Expression Recognition* : https://arxiv.org/pdf/1704.06756.pdf and has achieved a validation accuracy of 61% and test accuracy of 62% 
+The model is the implementation of the paper **Convolutional Neural Networks for Facial Expression Recognition** : https://arxiv.org/pdf/1704.06756.pdf and has achieved a validation accuracy of 61% and test accuracy of 62% 
