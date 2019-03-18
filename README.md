@@ -14,5 +14,8 @@ train.csv contains two columns, "emotion" and "pixels". The "emotion" column con
 
 The training set consists of 28,709 examples. The public test set used for the leaderboard consists of 3,589 examples. The final test set, which was used to determine the winner of the competition, consists of another 3,589 examples.
 
+# Training
+The model was trained on a NVIDIA 940MX GPU
+
 # Results 
 The model is the implementation of the paper **Convolutional Neural Networks for Facial Expression Recognition** : https://arxiv.org/pdf/1704.06756.pdf and has achieved a validation accuracy of 61% and test accuracy of 62% 
