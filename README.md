@@ -1,6 +1,10 @@
 # kaggle-facial-expression-recognition
 This repository contains code for **"Challenges in Representation Learning: Facial Expression Recognition Challenge"** on kaggle
 
+# Execution
+1. Tensorflow
+2. Pandas
+
 # Dataset
 The dataset can be downloaded from : https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
 
